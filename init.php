@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Nouveau Example Dashboard Widget
+Plugin Name: NOUVEAU Dashboard Widget Example
 Plugin URI: http://nouveauframework.com/plugins/
 Description: Demonstrates how to add a simple dashboard widget
 Version: 0.1

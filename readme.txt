@@ -1,4 +1,4 @@
-=== Example Dashboard Widget (Nouveau) ===
+=== NOUVEAU Dashboard Widget Example ===
 Contributors: veraxus
 Tags: dashboard, widget, example, developer, nouveau
 Requires at least: 3.6
