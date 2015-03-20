@@ -1,9 +1,11 @@
 === NOUVEAU Dashboard Widget Example ===
-Contributors: veraxus
+Contributors: Veraxus
 Tags: dashboard, widget, example, developer, nouveau
+Requires PHP: 5.3
 Requires at least: 3.6
 Tested up to: 3.8
-Stable tag: 0.1
+Stable tag: 0.2
+GitHub Plugin URI: veraxus/nv-example-dashboard-widget
 
 A simple, functional WordPress plugin that serves as an example for creating new "dashboard" widgets.
 
